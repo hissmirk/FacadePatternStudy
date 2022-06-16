@@ -1,4 +1,4 @@
-package MovieFacade;
+package ex01_MovieFacade;
 
 public class Beverage {
 
